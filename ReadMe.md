@@ -1,4 +1,4 @@
 ## Проект
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://f1uxik.github.io/aws_prj/)
+- [Публичная страница на GitHub Pages](https://zhorikbla.github.io/my-aw-prof/)
